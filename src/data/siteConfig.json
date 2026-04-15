@@ -1,0 +1,53 @@
+{
+  "name": "FUNEEL",
+  "slug": "funeel.com.br",
+  "description": "Nós somos funeel, sua solução de marketing. Criamos este blog para mostrar diferentes pontos de várias empresas – como elas agem na internet, processos que as empresas utilizam para crescer, e muito mais! Na funeel, estamos todos empenhados em dar às empresas as soluções de marketing de que elas precisam para ter sucesso on-line. Queremos mostrar a você como diferentes empresas agem na internet e ensiná-lo sobre os vários processos que as empresas utilizam para crescer.",
+  "url": "https://funeel.com.br",
+  "niche": "Marketing",
+  "keywords": "Nos somos funeel sua solucao de marketing Criamos este blog para mostrar",
+  "email": "contato@funeel.com.br",
+  "palette": "ocean",
+  "colors": {
+    "primary": "#0ea5e9",
+    "accent": "#0369a1",
+    "dark": "#0c4a6e"
+  },
+  "headerContrast": "light",
+  "font": "playfair",
+  "fontFamily": "'Playfair Display', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-G",
+    "hero": "Hero-F",
+    "features": "Features-A",
+    "about": "About-B",
+    "posts": "Posts-G",
+    "footer": "Footer-A",
+    "sobre": "Sobre-F",
+    "contato": "Contato-C"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

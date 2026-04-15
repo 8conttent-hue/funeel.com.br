@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o FUNEEL"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Na Funeel, somos apaixonados por ajudar empresas a prosperar no mundo digital. Nosso time experiente está sempre buscando as melhores práticas e táticas para garantir que sua marca se destaque na internet."
+  },
+  "content": "Na Funeel, acreditamos que cada empresa tem seu próprio potencial a ser descoberto. Nosso blog foi criado para compartilhar insights, melhores práticas e estratégias eficazes que diversas empresas utilizam para ter sucesso na internet. Estamos aqui para educar e fornecer o suporte necessário para que você também possa alcançar resultados expressivos.",
+  "mission": "Nossa missão é capacitar empresas com as soluções de marketing digital que elas precisam para brilhar online.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

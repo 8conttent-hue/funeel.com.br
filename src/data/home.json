@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "FUNEEL — Bem-vindo à Funeel",
+    "description": "Sua solução completa em marketing digital!"
+  },
+  "hero": {
+    "title": "Bem-vindo à Funeel",
+    "subtitle": "Sua solução completa em marketing digital!",
+    "btnText": "Descubra nossas soluções",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossas Soluções",
+    "items": [
+      {
+        "icon": "📊",
+        "title": "Estratégias Personalizadas",
+        "desc": "Desenvolvemos estratégias de marketing digital sob medida para atender às necessidades específicas da sua empresa."
+      },
+      {
+        "icon": "🚀",
+        "title": "Crescimento Acelerado",
+        "desc": "Utilizamos táticas comprovadas para impulsionar o crescimento da sua marca no ambiente online."
+      },
+      {
+        "icon": "🔍",
+        "title": "Análise de Resultados",
+        "desc": "Monitoramos continuamente os resultados para garantir que sua empresa esteja sempre no caminho certo."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem Somos",
+    "desc": "Na Funeel, somos apaixonados por ajudar empresas a prosperar no mundo digital. Nosso time experiente está sempre buscando as melhores práticas e táticas para garantir que sua marca se destaque na internet.",
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Projetos Concluídos"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfação dos Clientes"
+      },
+      {
+        "value": "10",
+        "label": "Anos de Experiência"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
